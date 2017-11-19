@@ -1,7 +1,7 @@
-const magik = magikcraft.io;
 for (var i = 0; i < 9; i++) {
+  const magik = magikcraft.io;
    console.log(i);
-   function feedme() {
+   function Appleget() {
 magik.satio();
 }
 }
